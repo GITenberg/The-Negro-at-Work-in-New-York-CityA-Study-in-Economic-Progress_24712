@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26688'
     url: http://www.gutenberg.org/2009/agents/26688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24712#The-Negro-at-Work-in-New-York-CityA-Study-in-Economic-Progress
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-02-28'
 gutenberg_type: Text
