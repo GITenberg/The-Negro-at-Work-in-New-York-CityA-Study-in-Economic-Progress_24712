@@ -1,0 +1,30 @@
+_repo: The-Negro-at-Work-in-New-York-CityA-Study-in-Economic-Progress_24712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haynes, George Edmund
+    birthdate: 1880
+    deathdate: 1960
+    gutenberg_agent_id: '26688'
+    url: http://www.gutenberg.org/2009/agents/26688
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'African Americans -- Employment -- New York (State) -- New York'
+- !lcsh 'African American businesspeople'
+- !lcsh 'African Americans -- History'
+- !lcc 'H'
+title: 'The Negro at Work in New York City: A Study in Economic Progress'
+url: http://www.gutenberg.org/ebooks/24712
